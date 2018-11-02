@@ -1,0 +1,11 @@
+{
+  "name": "boisterous",
+  "version": "0.0.0",
+  "main": "dist/index.js",
+  "repository": "git@github.com:minodisk/boisterous.git",
+  "author": "Daisuke Minot <daisuke.mino@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "svg.js": "^2.6.6"
+  }
+}
